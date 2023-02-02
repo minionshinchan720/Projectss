@@ -15,19 +15,19 @@ Installing
 A step by step series of examples that tell you how to get a development env running
 
 1.Clone the repository
-Copy code
+Copy code :- 
 git clone https://github.com/minionshinchan720/Projectss.git
 
 2.Change into the project directory
-Copy code
+Copy code :- 
 Cd hotel_management 
 
 3.  Now enter the following command to compile the source file using g++.
-Copy code
+Copy code :- 
 g++ -o hotel_management.cpp
 
 4. Run the File
-Copy code
+Copy code :- 
 ./hotel_management.cpp
 
 Versioning
